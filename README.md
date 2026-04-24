@@ -28,15 +28,21 @@
 
 <!-- github stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats-mu-three-1ietx0yab2.vercel.app/api?username=2hnK&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=2hnK&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </a>
 <br>
 
 <!-- top langs -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats-mu-three-1ietx0yab2.vercel.app/api/top-langs/?username=2hnK&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hnK&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </a>
 <br>
 
