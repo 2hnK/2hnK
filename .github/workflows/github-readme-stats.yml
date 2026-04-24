@@ -1,0 +1,40 @@
+name: Upstream Sync
+
+permissions:
+  contents: write
+  actions: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  sync_latest_from_upstream:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          # This automatically handles origin authentication for later steps
+          token: ${{ secrets.GH_README_STATS_TOKEN }}
+
+- name: Sync upstream changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add upstream and fetch
+          git remote add upstream https://github.com/anuraghazra/github-readme-stats.git || true
+          git fetch upstream master
+          
+          # Merge and push (이 부분이 수정되었습니다)
+          git checkout main
+          git pull origin main # 푸시 전 원격 저장소와 동기화
+          git merge upstream/master --allow-unrelated-histories --no-edit
+          git push origin main
