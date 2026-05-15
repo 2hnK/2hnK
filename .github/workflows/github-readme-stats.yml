@@ -30,8 +30,13 @@ jobs:
             local url="$2"
             local response
             response="$(mktemp)"
+            trap 'rm -f "$response"' RETURN
 
-            curl --fail --location --silent --show-error --retry 3 --retry-delay 5 "$url" --output "$response"
+            if ! curl --fail-with-body --location --silent --show-error --retry 3 --retry-delay 5 "$url" --output "$response"; then
+              echo "::warning::$name request failed; skipping because GitHub Readme Stats is an external service"
+              cat "$response"
+              return 0
+            fi
 
             if ! grep -q "<svg" "$response"; then
               echo "::error::$name did not return an SVG"
@@ -39,19 +44,23 @@ jobs:
               exit 1
             fi
 
-            if grep -qiE "something went wrong|error|rate limit" "$response"; then
+            if grep -qiE "rate limit|rate limiting" "$response"; then
+              echo "::warning::$name is rate limited by GitHub Readme Stats; skipping transient external failure"
+              cat "$response"
+              return 0
+            fi
+
+            if grep -qiE "something went wrong|error" "$response"; then
               echo "::error::$name returned an error card"
               cat "$response"
               exit 1
             fi
-
-            rm -f "$response"
           }
 
           check_card \
             "GitHub Stats" \
-            "${STATS_BASE_URL}/api?username=${USERNAME}&show_icons=true&theme=radical&hide_border=true&count_private=true"
+            "${STATS_BASE_URL}/api?username=${USERNAME}&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=21600"
 
           check_card \
             "Top Languages" \
-            "${STATS_BASE_URL}/api/top-langs/?username=${USERNAME}&layout=compact&theme=radical&hide_border=true&langs_count=8"
+            "${STATS_BASE_URL}/api/top-langs/?username=${USERNAME}&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=21600"
