@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F1A&height=220&section=header&text=KimJiHun&fontSize=80&animation=fadeIn&fontColor=FFFFFF&desc=Backend%20Engineer&descAlignY=64&descAlign=62" />
+   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0F172A&text=Kim%20JiHun&fontColor=FFFFFF&fontSize=54&desc=Backend%20Engineer%20building%20reliable%20systems&descSize=17&descAlignY=72" />
 
 <!-- typing -->
 
@@ -19,6 +19,15 @@
 </div>
 <br>
 
+<!-- currently focused on -->
+<!-- <h3>Currently Focused On</h3>
+
+<p>
+  Designing maintainable backend architecture<br>
+  Improving API performance and reliability<br>
+  Learning distributed systems and cloud-native infrastructure
+</p> -->
+
 <!-- ## 🏆 Stats, Trophies & Solved.ac -->
 
 <!-- <div align="center">
@@ -28,21 +37,15 @@
 
 <!-- github stats -->
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats-mu-three-1ietx0yab2.vercel.app/api?username=2hnK&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=2hnK&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-mu-three-1ietx0yab2.vercel.app/api?username=2hnK&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </a>
 <br>
 
 <!-- top langs -->
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats-mu-three-1ietx0yab2.vercel.app/api/top-langs/?username=2hnK&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hnK&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-mu-three-1ietx0yab2.vercel.app/api/top-langs/?username=2hnK&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 <br>
 
@@ -54,20 +57,20 @@
 
 </div>
 
-<br><br>
-
----
+<br>
 
 <!-- gitanimals -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2hnK&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/2hnK" width="900" height="400" alt="GitAnimals" align="center" />
-</a>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2hnK&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/2hnK" width="720" height="400" alt="GitAnimals" />
+  </a>
+</div>
 
 <!-- github contribution grid snake animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2hnK/2hnK/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2hnK/2hnK/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2hnK/2hnK/output/github-contribution-grid-snake.svg">
+    <img width="720" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2hnK/2hnK/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
