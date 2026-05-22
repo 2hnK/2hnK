@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=#0F172A&text=Kim%20JiHun&fontColor=FFFFFF&fontSize=54&desc=Backend%20Engineer%20building%20reliable%20systems&descSize=17&descAlignY=72" />
+   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0F172A&text=Kim%20JiHun&fontColor=FFFFFF&fontSize=54&desc=Backend%20Engineer%20building%20reliable%20systems&descSize=17&descAlignY=72" />
 
 <!-- typing -->
 
