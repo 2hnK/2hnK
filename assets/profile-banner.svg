@@ -6,17 +6,17 @@
   <rect x="18" y="18" width="1164" height="284" rx="2" fill="none" stroke="#2E2E2E"/>
 
   <text x="58" y="68" fill="#F2EEE4" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" letter-spacing="1">DEVARCHIVE</text>
-  <text x="1142" y="67" fill="#77746D" font-family="Arial, sans-serif" font-size="12" text-anchor="end" letter-spacing="2">PROFILE / 2026</text>
+  <text x="1142" y="67" fill="#77746D" font-family="Arial, sans-serif" font-size="12" text-anchor="end" letter-spacing="2">BACKEND DEVELOPER / 2hnK</text>
 
   <line x1="58" y1="92" x2="1142" y2="92" stroke="#343434"/>
   <line x1="214" y1="124" x2="214" y2="255" stroke="#343434"/>
 
-  <text x="58" y="153" fill="#77746D" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">01</text>
-  <text x="58" y="180" fill="#F2EEE4" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BACKEND</text>
+  <text x="58" y="153" fill="#77746D" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">FOCUS</text>
+  <text x="58" y="180" fill="#F2EEE4" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">JAVA · SPRING</text>
   <text x="58" y="205" fill="#F2EEE4" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">GENERATIVE AI</text>
 
   <text x="258" y="187" fill="#F2EEE4" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="1">KIM JIHUN</text>
-  <text x="262" y="226" fill="#9A9891" font-family="Arial, sans-serif" font-size="17" letter-spacing="1.5">Building practical services with Java, Spring &amp; AI.</text>
+  <text x="262" y="226" fill="#9A9891" font-family="Arial, sans-serif" font-size="17" letter-spacing="1.5">Solving the right problems with Spring and generative AI.</text>
 
   <circle cx="1118" cy="264" r="5" fill="#F2EEE4"/>
   <line x1="1068" y1="264" x2="1100" y2="264" stroke="#77746D"/>
