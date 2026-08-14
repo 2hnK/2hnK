@@ -16,6 +16,12 @@ Spring 기반 백엔드와 생성형 AI 응용 서비스를 만들고 있습니�
 
 ## 02. Featured Work
 
+### iRead
+
+시선·발음 데이터를 활용한 **난독증 아동 맞춤형 읽기 훈련 시스템**
+
+`Eye Tracking` · `Generative AI` · [Repository](https://github.com/iRead-B105/iRead)
+
 ### Soomgil
 
 생성형 AI와 공공데이터를 활용한 **취향 기반 여행 협업 플랫폼**
