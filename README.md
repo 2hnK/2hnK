@@ -8,7 +8,7 @@
 const KimJihun = {
   role: "백엔드 개발자",
   education: "국립한밭대학교 컴퓨터공학과",
-  current: "SSAFY 15기 이수",
+  current: "SSAFY 15기",
   focus: ["Java", "Spring / Spring Boot", "JPA", "MySQL", "Spring AI"],
   passion: "항상 문제의 본질에 집중하여 해결하는 개발자가 되겠습니다.",
 };
@@ -51,7 +51,7 @@ const KimJihun = {
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 - **[iRead](https://github.com/iRead-B105/iRead)** · 시선·발음 데이터를 활용한 **난독증 아동 맞춤형 읽기 훈련 시스템**  
   `Eye Tracking` `Generative AI`
@@ -67,17 +67,19 @@ const KimJihun = {
 
 ---
 
-## 🏆 Highlights & Experience
+## Highlights & Experience
 
-#### 🏢 Experience & Education
-- **SSAFY (삼성청년SW/AI아카데미)** `2026.01 — 현재`
-  - 🏆 **1학기 프로젝트 우수상** (Soomgil 서비스)
-  - 🚀 **2026 관광데이터 활용 공모전** 참가
+#### 1. Experience & Education
+
+- **SSAFY 15th (삼성청년SW/AI아카데미)** `2026.01 — 현재`
+  - **1학기 프로젝트 우수상** (Soomgil 서비스)
+  - **2026 관광데이터 활용 공모전** 참가
 - **국립한밭대학교 컴퓨터공학과** `2024.03 — 2026.02` (학사 졸업)
-  - 🎖️ **KICS 동계종합학술발표회 장려상** (지능형 AICC 4계층 정규화 게이트 연구)
-  - 🥇 **교내 SW·AI 경진대회 1등** (난독증 아동 AI 교안 생성 서비스)
+  - **KICS 동계종합학술발표회 장려상** (지능형 AICC 4계층 정규화 게이트 연구)
+  - **교내 SW·AI 경진대회 1등** (난독증 아동 AI 교안 생성 서비스)
 
-#### 📜 Certifications
+#### 2. Certifications
+
 - **정보처리기사** `2025.09` · 한국산업인력공단
 - **SQLD** `2025.06` · 한국데이터산업진흥원
 
