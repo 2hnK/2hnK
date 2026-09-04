@@ -1,6 +1,4 @@
-## Highlights & Experience
-
-### Featured Work
+## Featured Work
 
 - **[iRead](https://github.com/iRead-B105/iRead)** · 시선·발음 데이터를 활용한 **난독증 아동 맞춤형 읽기 훈련 시스템**  
   `Eye Tracking` `Generative AI`
@@ -14,7 +12,7 @@
 - **[NLP Character Extraction](https://github.com/2hnK/NLP-Character-feature-extraction)** · Qwen3-VL 기반 **캐릭터 특성 추출 및 커플 매칭 예측 시스템**  
   `Qwen3-VL` `Vision-Language Model`
 
-### Experience & Education
+## Experience & Education
 
 - **SSAFY 15th (삼성청년SW/AI아카데미)** `2026.01 — 현재`
   - **1학기 프로젝트 우수상** (Soomgil 서비스)
@@ -23,7 +21,7 @@
   - **KICS 동계종합학술발표회 장려상** (지능형 AICC 4계층 정규화 게이트 연구)
   - **교내 SW·AI 경진대회 1등** (난독증 아동 AI 교안 생성 서비스)
 
-### Certifications
+## Certifications
 
 - **정보처리기사** `2025.09` · 한국산업인력공단
 - **SQLD** `2025.06` · 한국데이터산업진흥원
