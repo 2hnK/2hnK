@@ -49,8 +49,6 @@ const KimJihun = {
 
 </div>
 
----
-
 ## Featured Work
 
 - **[dib](https://github.com/dib-B101/dib)** · 실시간 라이브 경매와 AI 상품 검수를 제공하는 **C2C 중고 경매 플랫폼**  
@@ -82,16 +80,12 @@ const KimJihun = {
 - **정보처리기사** `2025.09` · 한국산업인력공단
 - **SQLD** `2025.06` · 한국데이터산업진흥원
 
----
-
-## GitHub & Stats
+## Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-mu-three-1ietx0yab2.vercel.app/api?username=2hnK&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=21600&v=20260515-1" alt="GitHub Stats" />
   <a href="https://solved.ac/kimgh921"><img width="49%" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kimgh921" alt="Solved.ac Badge" /></a>
 </p>
-
-## GitAnimals Farm
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2hnK&utm_content=farm">
