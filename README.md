@@ -52,19 +52,14 @@ const KimJihun = {
 ## Featured Work
 
 - **[dib](https://github.com/dib-B101/dib)** · 실시간 라이브 경매와 AI 상품 검수를 제공하는 **C2C 중고 경매 플랫폼**  
-  `Live Auction` `AI Moderation`
 
 - **[iRead](https://github.com/iRead-B105/iRead)** · 시선·발음 데이터를 활용한 **난독증 아동 맞춤형 읽기 훈련 시스템**  
-  `Eye Tracking` `Generative AI`
 
 - **[Soomgil](https://github.com/Soomgil/soomgil)** 🏆 · 생성형 AI와 공공데이터를 활용한 **취향 기반 여행 협업 플랫폼**  
-  `Generative AI` `Public Data`
 
 - **[나랏말싸미](https://github.com/2hnK/dyslexia-kit-backend)** 🥇 · 난독증 아동·청소년을 위한 **AI 교안 생성 서비스**  
-  [Frontend](https://github.com/2hnK/dyslexia-kit-frontend) · [Backend](https://github.com/2hnK/dyslexia-kit-backend) · [AI](https://github.com/2hnK/dyslexia-kit-ai)
 
 - **[NLP Character Extraction](https://github.com/2hnK/NLP-Character-feature-extraction)** · Qwen3-VL 기반 **캐릭터 특성 추출 및 커플 매칭 예측 시스템**  
-  `Qwen3-VL` `Vision-Language Model`
 
 ## Experience & Education
 
