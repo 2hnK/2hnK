@@ -61,8 +61,8 @@
 
 | Period | Project | Description |
 | :-- | :-- | :-- |
-| `2026.10 — 2026.11` | **SETRON** | SEMES 기업연계 · **반도체 장비 SW 버전 관리 자동화** |
-| `2026.08 — 2026.09` | **[dib](https://github.com/dib-B101/dib)** | 실시간 라이브 경매와 AI 상품 검수를 제공하는 **C2C 중고 경매 플랫폼** |
+| `2026.10 — 2026.11` | **[SETRON](https://github.com/setron-B106/Setron)** | SEMES 기업연계 · **반도체 장비 SW 버전 관리 자동화** |
+| `2026.08 — 2026.09` | **[Dib](https://github.com/dib-B101/dib)** | 실시간 라이브 경매와 AI 상품 검수를 제공하는 **C2C 중고 경매 플랫폼** |
 | `2026.07 — 2026.08` | **[iRead](https://github.com/iRead-B105/iRead)** | 시선·발음 데이터를 활용한 **난독증 아동 맞춤형 읽기 훈련 시스템** |
 | `2026.05 — 2026.06` | **[Soomgil](https://github.com/Soomgil/soomgil)** 🥈 | 생성형 AI와 공공데이터를 활용한 **취향 기반 여행 협업 플랫폼** |
 | `2025.10 — 2025.12` | **[NLP Character Extraction](https://github.com/2hnK/NLP-Character-feature-extraction)** | Qwen3-VL 기반 **캐릭터 특성 추출 및 커플 매칭 예측 시스템** |
